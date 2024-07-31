@@ -1,5 +1,4 @@
-![logo](C:\Users\prash\Downloads\GITHUB.jpg)
-
+[![MasterHead](https://www.vectorstock.com/royalty-free-vector/laptop-with-shield-cyber-security-concept-3d-vector-38107371)
 <h1 align="center">Hi 👋, I'm Sunny bhardwaj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
