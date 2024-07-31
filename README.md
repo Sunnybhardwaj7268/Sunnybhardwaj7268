@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunnybhardwaj7268&label=Profile%20views&color=0e75b6&style=flat" alt="Sunnybhardwaj7268" /> </p>
 
-- 📫 How to reach me ****
+- 📫 How to reach me  sunnybhardwaj7318@gmail.com
 
 - ⚡ Fun fact **I think I am funny😎**
 <h3 align="left">Connect with me:</h3>
