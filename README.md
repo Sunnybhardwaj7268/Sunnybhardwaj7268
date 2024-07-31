@@ -1,4 +1,5 @@
-[![MasterHead](https://www.vectorstock.com/royalty-free-vector/laptop-with-shield-cyber-security-concept-3d-vector-38107371)
+[![MasterHead](C:\Users\91914\Downloads\laptop-with-shield-cyber-security-concept-3d-vector-38107371.avif)
+
 <h1 align="center">Hi 👋, I'm Sunny bhardwaj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
