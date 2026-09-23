@@ -8,9 +8,15 @@
 
 ![logo](https://github.com/shivesh122/shivesh122/blob/main/ho.gif)
 
-
 # 💫 About Me:
-🛠 I’m currently working on Web and React Native projects<br>🤝 I’m looking to collaborate on open-source web Developments tools<br>💡 I’m looking for help with optimizing SQL queries and large-scale PHP work<br>🌱 I’m currently learning advanced SQL, React Native for web and apps, and PHP<br>💬 Ask me about SQL, React, React Native, or beginner-friendly Development<br>⚡ Fun fact I can make Web and apps into optimistic and responsive works faster than I can make coffee
+
+🛠 I’m currently working on Full Stack MERN projects and building modern web applications<br>
+🤝 I’m looking to collaborate on open-source and real-world web development projects<br>
+💡 I’m interested in building scalable, secure, and user-friendly web applications<br>
+🌱 I’m currently improving my skills in MongoDB, Express.js, React.js, Node.js, and modern web technologies<br>
+💬 Ask me about MERN Stack, React, Node.js, Express.js, MongoDB, REST APIs, or Full Stack Development<br>
+⚡ Fun fact: I love turning ideas into responsive, interactive, and production-ready web applications faster than I can finish my coffee ☕
+
 
 
 ## 🌐 Socials:
